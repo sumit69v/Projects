@@ -11,9 +11,10 @@ This is my projects for my resume.
 8. Introduce VLANs and segmentation in home lab network
 9. Monitorint lab with Prometheus and Grafana
 10. Data Recovery Testing
-Document your home lab
-Wrapping up the 10 projects in a weekend
-Home Lab Explorers!
+
+### Document your home lab
+### Wrapping up the 10 projects in a weekend
+### Home Lab Explorers!
 
 11. TrueNAS Solution [ For file share and backups ]
 12. Media Streaming Server [ plex, jellyfin, you can load files nad load any devices to watch contents ]
