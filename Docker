@@ -11,6 +11,7 @@ Docker Engine --- Dockerd.exe [ Demon -- Background process ]
 image: Docker system image
 
 
+
 Docker Container — From — Docker hub
 
 $ docker run hello-world
@@ -71,5 +72,6 @@ alternative command
 $ docker container prune
 alternative command
 $ docker rmi
+
 
 
