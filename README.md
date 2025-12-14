@@ -14,3 +14,8 @@ This is my projects for my resume.
 Document your home lab
 Wrapping up the 10 projects in a weekend
 Home Lab Explorers!
+
+11. TrueNAS Solution [ For file share and backups ]
+12. Media Streaming Server [ plex, jellyfin, you can load files nad load any devices to watch contents ]
+13. Ad blocking, Network filter [ PI hole ]
+
